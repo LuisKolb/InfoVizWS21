@@ -3,3 +3,4 @@ pandas==1.3.4
 dash==2.0.0
 jupyter-dash==0.4.0
 numpy==1.21.4
+jupyterlab-dash==0.1.0a3
